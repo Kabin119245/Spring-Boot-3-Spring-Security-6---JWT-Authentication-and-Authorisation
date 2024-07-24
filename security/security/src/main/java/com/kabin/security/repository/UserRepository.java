@@ -1,4 +1,4 @@
-package com.kabin.security;
+package com.kabin.security.repository;
 
 import com.kabin.security.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
